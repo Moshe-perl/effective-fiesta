@@ -18,5 +18,3 @@ Summary
 	•	Permissions for others were modified to remove write access across files.
 	•	Hidden files were secured with restricted write permissions and controlled read access.
 	•	Directory access was limited to the user by removing execute permissions for the group.
-
-This document serves as a practical guide for understanding and managing Linux file permissions effectively.
